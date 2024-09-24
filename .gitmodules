@@ -1,0 +1,6 @@
+[submodule "chatfing_fe"]
+	path = chatfing_fe
+	url = https://github.com/nsuruguay05/chatfing_fe.git
+[submodule "chatfing_be"]
+	path = chatfing_be
+	url = https://github.com/nsuruguay05/chatfing_be.git
