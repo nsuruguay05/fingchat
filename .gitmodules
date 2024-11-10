@@ -4,3 +4,6 @@
 [submodule "chatfing_be"]
 	path = chatfing_be
 	url = https://github.com/nsuruguay05/chatfing_be.git
+[submodule "derivation_prompting"]
+	path = derivation_prompting
+	url = https://github.com/nsuruguay05/derivation-prompting
